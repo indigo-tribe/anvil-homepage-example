@@ -8,4 +8,5 @@ unique_ids:
     Homepage: BMLJKVRHBO6QVXQVTAMMKFH5KAEMQWA3
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '1765045030776331004150058.02496'
